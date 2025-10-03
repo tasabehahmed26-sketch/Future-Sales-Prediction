@@ -2,5 +2,5 @@
 # Models Used 
 LinearRegression | DecisionTreeRegressor| RandomForestRegressor |  KNeighborsRegressor | SVR
 
-Tech Stack
+# Tech Stack
 Python | StandardScaler | mean_absolute_error 
